@@ -1,5 +1,3 @@
-# Lost Harbor
+![This is an image](logo-dyson.svg)
 
 ---
-
-## ABCdef
