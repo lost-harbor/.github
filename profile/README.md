@@ -1,3 +1,3 @@
-![This is an image](logo-dyson.svg)
+![Lost Harbor](https://raw.githubusercontent.com/lost-harbor/.github/main/profile/logo-dyson.svg)
 
 ---
